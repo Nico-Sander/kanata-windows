@@ -1,7 +1,8 @@
 ;; --- Kanata config file ---
-;; - System:                Windows 11
-;; - Kanata:                kanata_gui_cmd_allowed.exe Release v.1.9.0 (https://github.com/jtroo/kanata/releases)
-;; - OS Keyboard Layout:    US QWERTY
+;; - System:                    Windows 11
+;; - Kanata:                    kanata_gui_cmd_allowed.exe Release v.1.9.0 (https://github.com/jtroo/kanata/releases)
+;; - OS Keyboard Layout:        US QWERTY
+;; - Physical Keyboard Layout:  Works with both ANSI (NA) and ISO (EU) layouts
 
 ;; --- Functionalies ---
 ;; - Set Colemak Layout
